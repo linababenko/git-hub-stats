@@ -1,6 +1,6 @@
-#User GitHub activity table for the last six months
+# User GitHub activity table for the last six months
 
-###Scope
+### Scope
 
 1.User activity grid, which contains real activity and cumulative.
 
@@ -21,7 +21,7 @@ You will also see any lint errors in the console.
 ###How to use?
 Just select required user for open stats. Graph will be generated based on the received data.
 
-###References
+### References
 
 https://github.com/octokit/core.js#readme
 
